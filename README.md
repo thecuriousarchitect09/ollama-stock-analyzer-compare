@@ -2,6 +2,12 @@
 
 A local Python + Streamlit app that uses Yahoo Finance data and a local Ollama model to analyze one stock, compare it with another stock, and answer follow-up questions.
 
+# 🎥 YouTube Tutorial
+
+Want to understand how this project works step by step?
+
+[Video walkthrough](https://youtu.be/I2T2F0fbNAw)
+
 ## Run
 
 ```bash
